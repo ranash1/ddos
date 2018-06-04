@@ -6,6 +6,3 @@ detection software based on statistical methods, i.e., Principal Component Analy
 a variety of network attacks and essentially DDoS. Real time anomalies detection is crucial to defend hosted applications at the right time and effectively, otherwise it can be too late.
 
 This Notebook presents an implementation of the PCA method for DDoS attak detection.
-
-For a robust BigData distributed architecture, to detect in real time, DDoS attacks and other networks
-anomalies and intrusions contact us at contact[at]alpgo.com.
